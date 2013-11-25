@@ -60,6 +60,6 @@ Naaikunst::Application.routes.draw do
   #     resources :products
   #   end
 
-    match '/:id' => 'pages#show'
-
+ get ':action' => 'pages'
+ 
 end
