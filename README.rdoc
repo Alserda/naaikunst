@@ -1,3 +1,4 @@
 == README
 
 Jordi Wippert
+Mariska Splinter
