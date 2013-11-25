@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Neme:</strong>
+  <%= @workshop.neme %>
+</p>
+
+<p>
+  <strong>Describe:</strong>
+  <%= @workshop.describe %>
+</p>
+
+<%= link_to 'Edit', edit_workshop_path(@workshop) %> |
+<%= link_to 'Back', workshops_path %>
