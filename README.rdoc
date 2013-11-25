@@ -1,3 +1,8 @@
 == README
 
+<<<<<<< HEAD
 Jordi Wippert en nog een keer Jordi Wippert
+=======
+Jordi Wippert
+Mariska Splinter
+>>>>>>> 1d3ed1447f2ceedd164d0d67c431ca9eb45c1ba0
